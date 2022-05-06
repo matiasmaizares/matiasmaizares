@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm matias maizares</h1>
 <h3 align="center">A fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **react and node**
+
+- 💬 Ask me about **React Js | Node Js | Angular**
 
 - 📫 How to reach me **matiasmaizares2017@gmail.com**
 
